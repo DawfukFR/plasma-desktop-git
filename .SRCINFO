@@ -1,6 +1,6 @@
 pkgbase = plasma-desktop-git
 	pkgdesc = KDE Plasma Desktop
-	pkgver = 6.0.80_r11775.gea3b2eecf
+	pkgver = 6.0.80_r11779.g16d60a04d
 	pkgrel = 1
 	url = https://kde.org/plasma-desktop/
 	arch = x86_64

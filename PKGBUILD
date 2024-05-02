@@ -3,7 +3,7 @@
 # Contributor: Antonio Rojas <arojas@archlinux.org>
 
 pkgname=plasma-desktop-git
-pkgver=6.0.80_r11775.gea3b2eecf
+pkgver=6.0.80_r11779.g16d60a04d
 pkgrel=1
 pkgdesc='KDE Plasma Desktop'
 arch=($CARCH)
